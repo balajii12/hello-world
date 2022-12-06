@@ -1,1 +1,1 @@
-</h1>Welcome to the DEVOPS class</h1>
+</h1>This is a pipeline</h1>
